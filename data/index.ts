@@ -109,7 +109,7 @@ export const projects = [
     id: 4,
     title: "A1 Media",
     des: "A modern media company website that showcases the latest in entertainment, news, and culture.",
-    img: "/pr-4.svg",
+    img: "/pr-4.jpg",
     iconLists: ["/html.svg", "/css.svg", "/php.svg", "/sql.svg", "/fig.svg"],
     link: "https://thea1media.com/",
   },
